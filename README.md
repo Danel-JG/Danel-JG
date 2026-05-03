@@ -60,6 +60,10 @@ I'm *Daniel Guerra*, a Systems and Computer Engineering student and an emerging 
 ### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
 
 # 📊 GitHub Stats:
