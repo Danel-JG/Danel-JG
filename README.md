@@ -9,7 +9,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 </picture>
 
 I'm *Daniel Guerra*, a Systems and Computer Engineering student and an emerging developer with a strong passion for technology, continuous learning, and clean coding practices. I focus on building projects that are clear, well-structured, and visually polished, while continuously strengthening my skills in both Back-end and Front-end development using modern tools and frameworks. My approach is centered on understanding core concepts in depth, writing efficient and maintainable code, and developing a professional portfolio that truly reflects my growth, technical capabilities, and ongoing evolution in programming and version control.
